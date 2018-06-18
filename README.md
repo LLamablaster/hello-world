@@ -1,2 +1,3 @@
 # hello-world
-trying to learn how git works
+
+Hi, I'm trying to learn how to code more effectively.
